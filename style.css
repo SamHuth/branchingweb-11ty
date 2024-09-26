@@ -16,10 +16,22 @@ h1, h2, h3, h4, h5, h6, .alt-font{
     font-family: 'Merriweather', serif!important;
     font-weight: bold;
     color: var(--primary-blue);
+    margin-bottom: 6px;
+    letter-spacing: .6px;
+    font-weight: lighter;
 }
 
 h2, h3, h4, h5, h6{
     max-width: 30ch;
+}
+
+p + h1,
+p + h2,
+p + h3,
+p + h4,
+p + h5,
+p + h6 {
+    margin-top: 20px;
 }
 
 main{
@@ -28,7 +40,7 @@ main{
 
 .container{
     width: 100%;
-    max-width: 100ch;
+    max-width: 80ch;
     margin: 0 auto;
 }
 
@@ -53,7 +65,7 @@ main{
 
 @media (max-width:768px){
     .container{
-        max-width: 70ch;
+        max-width: 60ch;
     }
 
     .page-header{
