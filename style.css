@@ -3,7 +3,7 @@
     --secondary-blue: #2b3eca;
     --primary-cream: #fff9e5;
     --secondary-cream: #ffe8bd;
-    --primary-black: #1a1a1a;
+    --primary-black: #595959;
 }
 
 body{
@@ -23,13 +23,25 @@ h2, h3, h4, h5, h6{
     max-width: 30ch;
 }
 
+a, a:visited{
+    color: var(--primary-blue);
+}
+
+a:focus, a:hover{
+    color: var(--secondary-blue);
+}
+
+p{
+    font-size: 14px;
+}
+
 p + h1,
 p + h2,
 p + h3,
 p + h4,
 p + h5,
 p + h6 {
-    margin-top: 20px;
+    margin-top: 3rem;
 }
 
 main{
@@ -39,17 +51,19 @@ main{
 blockquote{
     display: block;
     width: 100%;
-    background: var(--primary-blue);
-    color: white;
-    padding: 10px;
-    margin-top: 1rem;
-    margin-bottom: 1rem;
+    padding: 15px;
+    background: white;
+    margin-bottom: 1.5rem;
+    border: 1px solid var(--primary-blue);
 }
 
 blockquote > h4{
-    color: white;
+    max-width: 100%;
 }
 
+blockquote small{
+    color: var(--secondary-blue);
+}
 
 .container{
     width: 100%;
@@ -76,13 +90,14 @@ blockquote > h4{
     font-size: 4rem;
 }
 
+
 @media (max-width:768px){
     .container{
         max-width: 60ch;
     }
 
     .page-header{
-        height: 40vh;
+        height: 30vh;
     }
 
     .header-h1{
