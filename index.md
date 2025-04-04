@@ -7,56 +7,56 @@ page:
     title: "Branching Web"
 ---
 
-# WordPress Websites and Hosting for Small Businesses 
+<h1 class="header-h1">Branching Web</h1>
+
+## WordPress Websites and Hosting for Small Businesses 
 
 <hr class="spacer" />
 
-## Looking for a website?
-Websites are one of the most important assets any business can own. They provide the fastest way for new people to find you, learn about you, and become a paying customer. At Branching Web, we understand the importance of having a well maintained site that looks amazing, ranks well in Search Engines and works perfectly for every person on any platform. We are here to provide you with the best digital solution to fit your business goals.
-
-
 <div class="split">
-    <div>1</div>
-    <div>2</div>
+    <div>
+        <h2>Looking for a website?</h2>
+        <p>Websites are one of the most important assets any business can own. They provide the fastest way for new people to find you, learn about you, and become a paying customer. At Branching Web, we understand the importance of having a well maintained site that looks amazing, ranks well in Search Engines and works perfectly for every person on any platform. We are here to provide you with the best digital solution to fit your business goals.</p>
+    </div>
+    <div>
+        <p class="h-bold">We are experts with</p>
+        <div class="img-grid">
+            <img src="/img/wordpress-transparent.png" alt="......."/>
+            <img src="/img/woocommerce-transparent.png" alt="......."/>
+            <!-- <img src="/img/shopify-transparent.png" alt="......."/> -->
+            <!-- <img src="/img/google-transparent.png" alt="......."/> -->
+        </div>
+    </div>
 </div>
 
 <hr class="spacer" />
 
-### The Process
+<div class="split">
+    <div>
+        <h2>Ready to Start?</h2>
+        <p>We are always excited to help businesses achieve their goals and reach their ultimate potential. We accomplish this by discussing all the details and align our projects with your targets in mind. Once all specifics are covered, we begin production and get you up and running with your solution in 6-8 weeks.</p>
+    </div>
+    <div>
+        <p class="h-bold">The Process</p>
+        <b class="h-bold mt-1"><small>Scope</small></b>
+        <p>Let's discuss to find out what problems you want to solve, what new and exciting features you want to have, and what styles and designs you want to represent your brand.</p>
+        <b class="h-bold mt-1"><small>Build</small></b>
+        <p>We build all websites and solutions with the focus of broadening your business's potential online. We do this through tailoring your content around relevant keywords, creating a user-friendly design, and ensuring your site is clear, easy to use, and accessible to all users on any device.</p>
+        <b class="h-bold mt-1"><small>Review</small></b>
+        <p>A quick round or two of reviews to ensure all content and imagery is correct, and to run all final tests on performance and SEO requirements.</p>
+        <b class="h-bold mt-1"><small>Launch</small></b>
+        <p>Release on our hosting platform, or on a provider of your choice.</p>
+        <b class="h-bold mt-1"><small>Support</small></b>
+        <p>We have options for ongoing support and maintenance to keep your website healthy and performing at it's best.</p>
+    </div>
+</div>
 
-> #### 1. Scope
-> Let's discuss to find out what problems you want to solve, what new and exciting features you want to have, and what styles and designs you want to represent your brand.
+<hr class="spacer" />
 
-> #### 2. Build
-> We build all websites and solutions with the focus of broadening your business's potential online. We do this through tailoring your content around relevant keywords, creating a user-friendly design, and ensuring your site is clear, easy to use, and accessible to all users on any platform. We develop with your content needs in mind, so utilising CMS platforms like WordPress, you can be in control of your content with a familiar platform.
-
-> #### 3. Review & Launch
-> this is eomse
-
-<p></p>
-
-### Ready to start? Let’s begin!
-We are always excited to help businesses achieve their goals and reach their ultimate potential. We accomplish this by discussing all the details and align our projects with your targets in mind. Once all specifics are covered, we begin production and get you up and running with your solution in 6-8 weeks.
 
 
 ### Our Work
-
-Check out some of our existing work.
-
-<p><br /></p>
-
-> #### Cove Catering <br />[www.covecatering.com.au](https://www.covecatering.com.au){target="_blank"}
-> Cove Catering are the leading catering providers for Private/Government functions and School Canteens in the greater Brisbane area. The Cove Catering team approached us to conduct a redesign and rebuild of their old and neglected website. We successfully delivered a bespoke design on a custom WordPress theme to breathe new life into their brand. The website also features a fully functional order quote platform built with WooCommerce, where customers can begin their catering selection.
-> &nbsp;
-> <small>#design, #development, #SEO</small>
-
-> #### Unique Mobile Mechanic <br />[www.uniquemobilemechanic.com.au](https://www.uniquemobilemechanic.com.au){target="_blank"}
-> Unique Mobile Mechanic have been operating across the Fraser and Sunshine Coast for the past 30+ years. They required an up to date website and assistance managing business profiles and improving rankings. Branching Web delivered a custom designed WordPress website and new detailed web content to improve search engine ranking and lead generation. 
-> &nbsp;
-> <small>#design, #development, #hosting, #SEO</small>
-
-
-
+[Portfolio Cove Catering](/portfolio-cove-catering)
 
 ### Pricing
 The pricing

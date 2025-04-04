@@ -6,6 +6,7 @@ module.exports = function(eleventyConfig) {
     // File Passthrough
     eleventyConfig.addPassthroughCopy("reset.css");
     eleventyConfig.addPassthroughCopy("style.css");
+    eleventyConfig.addPassthroughCopy('img');
 
     // Plugins
 	// Add target=blank custom code
