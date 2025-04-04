@@ -1,7 +1,8 @@
 :root{
     --primary-blue: #475cf3;
     --secondary-blue: #2b3eca;
-    --primary-cream: #fff9e5;
+    /* --primary-cream: #fff9e5; */
+    --primary-cream: #fff;
     --secondary-cream: #ffe8bd;
     --primary-black: #595959;
 }
@@ -67,7 +68,7 @@ blockquote small{
 
 .container{
     width: 100%;
-    max-width: 80ch;
+    max-width: 120ch;
     margin: 0 auto;
 }
 
@@ -90,6 +91,23 @@ blockquote small{
     font-size: 4rem;
 }
 
+.spacer{
+    margin: 2rem 0;
+    border: none;
+}
+
+.split{
+    display: flex;
+    flex-direction: row;
+    gap: 4rem;
+    align-items: start;
+    justify-content: space-between;
+}
+
+.split > *{
+    background: yellow;
+    flex-grow: 1;
+}
 
 @media (max-width:768px){
     .container{
@@ -103,5 +121,10 @@ blockquote small{
     .header-h1{
         margin-bottom: calc(-1rem + -20px);
         font-size: 2rem;
+    }
+
+    .split{
+        flex-direction: column;
+        gap: 1rem;
     }
 }

@@ -7,8 +7,20 @@ page:
     title: "Branching Web"
 ---
 
-## WordPress Websites and Hosting for Small Businesses 
+# WordPress Websites and Hosting for Small Businesses 
+
+<hr class="spacer" />
+
+## Looking for a website?
 Websites are one of the most important assets any business can own. They provide the fastest way for new people to find you, learn about you, and become a paying customer. At Branching Web, we understand the importance of having a well maintained site that looks amazing, ranks well in Search Engines and works perfectly for every person on any platform. We are here to provide you with the best digital solution to fit your business goals.
+
+
+<div class="split">
+    <div>1</div>
+    <div>2</div>
+</div>
+
+<hr class="spacer" />
 
 ### The Process
 
