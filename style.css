@@ -51,7 +51,7 @@ main{
     padding: 40px 0;
 }
 
-blockquote{
+/* blockquote{
     display: block;
     width: 100%;
     padding: 15px;
@@ -66,6 +66,10 @@ blockquote > h4{
 
 blockquote small{
     color: var(--secondary-blue);
+} */
+
+footer .second{
+    background: #eee;
 }
 
 .container{
@@ -92,6 +96,9 @@ blockquote small{
     font-style: italic;
     font-size: 4rem;
 }
+.header-h1.small{
+    font-size: 1rem;
+}
 
 .header-h1 + h2{
     font-size: 2rem;
@@ -104,6 +111,10 @@ blockquote small{
     font-weight: bold;
 }
 
+.font-tiny{
+    font-size: .7rem;
+}
+
 .mt-1{
     margin-top: .8rem;
     display: block;
@@ -114,12 +125,20 @@ blockquote small{
     border: none;
 }
 
+.pad-small{
+    padding: 6px 20px;
+}
+
 .split{
     display: flex;
     flex-direction: row;
     gap: 10rem;
     align-items: start;
     justify-content: space-between;
+}
+
+.split.items-center{
+    align-items: center;
 }
 
 .split > *{
@@ -157,7 +176,11 @@ blockquote small{
     /* object-fit: cover; */
 }
 
-@media (max-width:768px){
+footer .top{
+    padding: 40px 0;
+}
+
+@media (max-width:1100px){
     .container{
         max-width: 60ch;
     }
